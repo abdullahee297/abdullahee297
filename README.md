@@ -9,15 +9,6 @@ I have hands-on experience in developing projects that combine **electronics, pr
 
 > *“Where there is a will, there is a way.”*
 
-## 🔧 Technical Skills
-- **Embedded Systems:** Arduino, Microcontrollers  
-- **Programming:** Embedded C / C++, Python  
-- **Robotics:** Line Following Robots, Sensors, Motor Drivers  
-- **Automation:** Control Logic, Buzzer & LED Alerts  
-- **Software:** Python (Tkinter), Basic SQL, MongoDB
-- **Tools:** Git, GitHub, Serial Debugging  
-
-
 ## 🌐 Connect With Me
 - 💼 **LinkedIn:** [Muhammad Abdullah](https://www.linkedin.com/in/muhammad-abdullah-850b332a5/)
 
