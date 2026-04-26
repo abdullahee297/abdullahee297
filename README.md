@@ -15,8 +15,8 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img height="170" width="48% src="https://github-readme-stats.shion.dev/api?username=abdullahee297&theme=merko&hide_border=true" />
-  <img height="170" width="48% src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdullahee297&layout=compact&theme=merko&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=abdullahee297&theme=merko&hide_border=true&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdullahee297&layout=compact&theme=merko&hide_border=true" />
 </p>
 
 <p align="center">
