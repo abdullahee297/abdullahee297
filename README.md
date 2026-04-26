@@ -5,10 +5,6 @@ This is Muhammad Abdullah
 
 I am an electrical engineering student driven by a strong interest in **robotics, embedded systems, and automation**. I enjoy transforming ideas into **working hardware-software solutions** using microcontrollers, sensors, and efficient logic. My focus is on building **reliable, practical, and scalable projects** while continuously improving my technical depth.
 
-# 💫 About Me:
-i am electrical engineer student learing python machine learning ai and automation
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullahsketchit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-m-abdullah-850b332a5
 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2022ee297@student.uet.edu.pk) 
@@ -19,9 +15,6 @@ i am electrical engineer student learing python machine learning ai and automati
 ![](https://github-readme-stats.shion.dev/api?username=abdullahee297&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=abdullahee297&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdullahee297&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdullahee297&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
