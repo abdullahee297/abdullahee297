@@ -2,7 +2,12 @@
 <h3 align="center">Python Developer | ML & AI Engineer | Automation</h3>
 
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-m-abdullah-850b332a5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2022ee297@student.uet.edu.pk) 
+  <a href="https://linkedin.com/in/engr-m-abdullah-850b332a5">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:2022ee297@student.uet.edu.pk">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 # 💻 Tech Stack:
