@@ -1,6 +1,61 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">Python Developer | ML & AI Engineer | Automation</h3>
 
+## ⚡ About Me
+
+* 🔭 Currently building **AI-powered systems & automation tools**
+* 🧠 Passionate about **Machine Learning & Real-world Applications**
+* 💡 Love turning ideas into **scalable software solutions**
+* 🚀 Always learning and improving
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Grocery Store Management System
+
+> A complete billing + inventory system with role-based access
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Desktop%20App-Tkinter-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-SQLite-green?style=for-the-badge"/>
+</p>
+
+**🔑 Features:**
+
+* 👨‍💼 **Admin Panel**
+
+  * Manage products (Add / Update / Delete)
+  * Track seller login/logout activity
+  * Monitor sales performance
+* 🧾 **Seller Panel**
+
+  * Generate invoices in real-time
+  * Automatic stock updates
+  * Live product search from database
+* 📊 Centralized inventory & transaction system
+
+🔗 **[View Project](#)** *(Add your GitHub repo link here)*
+
+---
+
+### 🤖 Student AI Chatbot
+
+> AI-powered chatbot for students with authentication & real-time responses
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Django-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-LLM-orange?style=for-the-badge"/>
+</p>
+
+**🔑 Features:**
+
+* 🔐 User authentication system (Login/Signup)
+* 💬 Interactive chatbot interface
+* ⚡ Real-time AI responses (Groq + LLaMA)
+* 🧠 Context-aware student assistance
+
+
 <p align="center">
   <a href="https://linkedin.com/in/engr-m-abdullah-850b332a5">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
