@@ -62,15 +62,6 @@
 * ⚡ Real-time AI responses (Groq + LLaMA)
 * 🧠 Context-aware student assistance
 
-## ⚡ What I Build
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖 AI Systems-00FFAA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/👁️ Computer Vision-FF0080?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚙️ Automation-00FFFF?style=for-the-badge"/>
-</p>
-
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <table align="center">
