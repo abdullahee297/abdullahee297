@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desktop%20App-Tkinter-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-SQLite-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge"/>
 </p>
 
 **🔑 Features:**
