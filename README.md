@@ -3,6 +3,9 @@
 
 
 <p align="center">
+  <a href="https://abdullahee297.pythonanywhere.com/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/engr-m-abdullah-850b332a5">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
@@ -10,6 +13,11 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
 
 
 ## ⚡ About Me
